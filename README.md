@@ -8,7 +8,8 @@ This project involves Assignment 2 for AAE6102: Satellite Communication and Navi
 - Multiple `.m` files for GNSS signal processing.  
 - Two data files: `Urban` and `Opensky.bin`.  
 - `SDR_main.m` - The main function for processing IF data.
-- Two matlab data files obtained from Assignment 1: `Urban` and `Opensky`. 
+- `UrbanPosEKF.m`, `UrbanPosWLS.m`, `OpenskyPosWLS.m` - serve as the primary plotting scripts for visualizing the GNSS positioning results.
+- Two MATLAB data files obtained from Assignment 1: `Urban` and `Opensky`. 
 
 ## Table of Contents
 
@@ -223,6 +224,8 @@ Use **RAIM subset testing**:
 Optionally, repeat the process if multiple faults are suspected:  
 - Recalculate residuals and test statistic after each exclusion  
 - Repeat fault detection and removal until no faults are detected
+
+**Fig.3** and **Fig.4** present the results obtained by applying the weighted RAIM algorithm to the provided "open-sky" data, as shown in the following figures. The positioning results in this project are obtained by executing the tracking_pos_RAIM.m script 
 
 <div align="center">
   <figure>
