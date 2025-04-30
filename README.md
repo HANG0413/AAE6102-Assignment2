@@ -487,3 +487,11 @@ As GNSS and LEO satellite networks continue expanding, GNSS-RO will become even 
 [3] OpenAI. (2025, April 30). ChatGPT model response on GNSS Techniques. Retrieved from https://www.openai.com/chatgpt.
 
 [4] Walter, T., & Enge, P. (1995, September). Weighted RAIM for precision approach. In Proceedings of Ion GPS (Vol. 8, No. 1, pp. 1995-2004). Institute of Navigation. https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Walter_IONGPS_1995_wraim.pdf
+
+[5] Jiang Y, Wang J. A-RAIM and R-RAIM performance using the classic and MHSS methods[J]. The Journal of Navigation, 2014, 67(1): 49-61.
+
+[6] Nikiforov I, Roturier B. Advanced RAIM algorithms: First results[C]//Proceedings of the 18th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS 2005). 2005: 1789-1800.
+
+[7] Gabela J, Kealy A, Hedley M, et al. Case study of Bayesian RAIM algorithm integrated with Spatial Feature Constraint and Fault Detection and Exclusion algorithms for multi‐sensor positioning[J]. Navigation, 2021, 68(2): 333-351.
+
+[8] Zhang M, Zhang J, Zhu Y. Enhancements of the dichotomy based RAIM[C]//Proceedings of the 22nd International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS 2009). 2009: 2783-2790.
