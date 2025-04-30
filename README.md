@@ -29,7 +29,8 @@ Compose a short essay (500–1000 words) comparing the pros and cons of the foll
 - Real-Time Kinematic (RTK)  
 - Precise Point Positioning (PPP)  
 - PPP-RTK
-
+**ChatGPT Link:** https://chatgpt.com/c/680df118-38cc-8008-a45f-30ae3e6a44cd
+  
 Smartphone navigation has become an essential component of daily life, powering applications ranging from ride-sharing to augmented reality. However, Global Navigation Satellite System (GNSS) measurements on smartphones are challenged by noise, multipath effects, and limited antenna quality, leading to relatively low positioning accuracy compared to dedicated GNSS receivers. To bridge this gap, advanced GNSS techniques such as Differential GNSS (DGNSS), Real-Time Kinematic (RTK), Precise Point Positioning (PPP), and PPP-RTK have been explored. Each method offers distinct advantages and faces particular challenges when applied to smartphones. This essay compares the pros and cons of these four techniques in the context of smartphone navigation.
 
 ## 🛰 Differential GNSS (DGNSS)
@@ -299,7 +300,7 @@ While the RAIM-based positioning system performs well under nominal conditions, 
 Low Earth Orbit (LEO) satellites are widely used for communication purposes but present unique challenges when utilized for navigation.  
 Write a short essay (500–1000 words) discussing:  
 **The difficulties and challenges of using LEO communication satellites for GNSS navigation.**
-
+**ChatGPT Link:** https://chatgpt.com/c/680df118-38cc-8008-a45f-30ae3e6a44cd
 ---
 
 Low Earth Orbit (LEO) satellites, typically orbiting at altitudes between 500 and 2000 kilometers, have revolutionized global communications, offering low-latency internet and real-time connectivity through constellations like Starlink and OneWeb. Given their growing presence and advanced technology, researchers have explored leveraging LEO satellites for Global Navigation Satellite System (GNSS) purposes, either to augment or even partially replace traditional Medium Earth Orbit (MEO) GNSS systems like GPS, Galileo, and BeiDou. However, adapting LEO communication satellites for navigation introduces a series of technical and operational challenges. This essay discusses the primary difficulties associated with using LEO satellites for GNSS navigation.
@@ -396,7 +397,7 @@ Please select one of the following topics covered in the lecture to discuss:
 - GNSS Radio Occultation (GNSS-RO)  
 - Ionosphere mapping based GNSS ground station  
 - GNSS seismology  
-
+**ChatGPT Link:** https://chatgpt.com/c/680df118-38cc-8008-a45f-30ae3e6a44cd
 ---
 
 ## The Impact of GNSS in Remote Sensing: GNSS Radio Occultation (GNSS-RO)
